@@ -1,0 +1,25 @@
+# RStudio/R-related
+.Rhistory
+.RData
+.Rproj.user/
+.Ruserdata
+
+# OS-generated files
+.DS_Store
+
+# Output results - ignore all files but keep .gitkeep
+output/*
+!output/.gitkeep
+
+# Exclude data files and data preprocessing scripts until publication
+scripts/data_prep/
+
+## Data: only exclude sensitive files (keep .txt/.ris)
+data/*.csv
+data/*.xlsx
+data/*.rds
+data/*.sav
+
+# Ignore all .svg files globally
+*.svg
+
