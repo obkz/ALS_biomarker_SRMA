@@ -22,4 +22,4 @@ Upon manuscript acceptance, we will upload the final version of the spreadsheet 
 
 ## License
 
-If you reuse or adapt any part of this code, please cite the corresponding publication and acknowledge **Kazuki Obara et al.** as the original authors.
+If you reuse or adapt any part of this code, please cite the corresponding publication and acknowledge **Obara K et al.** as the original authors.
