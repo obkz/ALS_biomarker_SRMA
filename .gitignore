@@ -11,15 +11,18 @@
 output/*
 !output/.gitkeep
 
-# Exclude data files and data preprocessing scripts until publication
-scripts/data_prep/
+# Exclude data files and data preprocessing backup scripts
+scripts/data_prep/backup/
+data/backup/
 
 ## Data: only exclude sensitive files (keep .txt/.ris)
-data/*.csv
-data/*.xlsx
 data/*.rds
 data/*.sav
 
 # Ignore all .svg files globally
 *.svg
 
+# Excel temporary files
+~$*.xlsx
+~$*.xls
+~$*.xlsm
