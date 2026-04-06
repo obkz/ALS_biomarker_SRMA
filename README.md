@@ -8,6 +8,9 @@ Obara K, et al. *Eur J Neurol*. 2025 Oct;32(10):e70382.
 **PMID:** [41140053](https://pubmed.ncbi.nlm.nih.gov/41140053/)
 **DOI:** [10.1111/ene.70382](https://doi.org/10.1111/ene.70382)
 
+**Code archive (fixed version for reproducibility):**  
+https://doi.org/10.5281/zenodo.19437423
+
 ## Structure
 
 - `scripts/`: Analysis scripts and custom functions.
